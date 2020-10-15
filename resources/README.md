@@ -2,4 +2,4 @@
 
 * [Web](web/)
 * [iOS](ios/)
-* [Python](python/)--not recommended
+* [Python](python/)--not recommended-ok
